@@ -1,11 +1,10 @@
-Name: ____________           ID:   ____________
+Name: Edward Osoro          ID:   ____________
 
 ## Proposed Project
 
-> Replace this paragraph with the description of what your project
-> will do. Tell me what kind of interface it will have, and roughly
-> how it will work. I don't need more than three or four sentences,
-> unless you feel compelled to write more.
+ Replace this paragraph with the description of what your project
+ The project will have one-one strategy
+
 
 ## Outline Structure
 
