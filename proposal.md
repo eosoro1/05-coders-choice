@@ -1,4 +1,4 @@
-Name: Edward Osoro          ID:   ____________
+Name: Edward Osoro          ID:   24184034
 
 ## Proposed Project
 
@@ -8,7 +8,7 @@ Name: Edward Osoro          ID:   ____________
 
 ## Outline Structure
 
-> Describe how you'll organize your code. What is the process and
+Supervised project
 > supervision structure? If it uses a framework, how does it fit in. I
 > just need to understand the direction you plan to take. Again, three
 > or four sentences are probably enough.
